@@ -2,8 +2,9 @@
   "author": "PAWM International <pawmint@googlegroups.com>",
   "name": "zabbix",
   "description": "A minimal wrapper around request.js to facilitate fetching data from the Zabbix API.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./lib/zabbix",
+  "license": "MIT",
   "scripts": {
     "test": "./node_modules/.bin/mocha -w -R spec"
   },
